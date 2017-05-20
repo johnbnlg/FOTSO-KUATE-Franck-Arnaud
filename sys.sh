@@ -2,7 +2,8 @@
 
 # Concepteur: FOTSO KUATE Franck arnaud; Matricule: 16b884fs
 usage(){
-	echo "Bienvenu sur mon script sys.\n Choisir l'option à executer."
+	echo "Bienvenu sur mon script sys.\n"
+	echo "Choisir l'option à executer."
 	echo "a) Informations des utilisateur enregistrés il y a trois jours."
 	echo "b) Acquisition, installation et lancement de l'environement XAMPP."
 	echo "c) Archivage des éléments du répertoire personel qui ont été modifiés par l'utilisateur sudoer il y a deux jours dans un périphérique externe."
