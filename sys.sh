@@ -38,7 +38,7 @@ sysInfo(){
 	free -h
 	
 	echo "Utilisation du processeur"
-	top
+	top -n1
 }
 
 usage
